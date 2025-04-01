@@ -1,0 +1,50 @@
+body{
+    background-color: #929292;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.navbar{
+    background-color: rgb(78, 78, 78);
+    overflow: hidden;
+}
+.navbar a{
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navbar a:hover{
+    background-color: #c0c0c0;
+    color: black;
+}
+  
+
+.navbar a.active{
+    background-color: #04AA6D;
+    color: white;
+}
+
+pre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#smaker{
+    position: relative;
+    left: 540px;
+    top: 250px;
+}
+
+#typer{
+    position: relative;
+    left:340px;
+    top: 250px;
+}
+
+#historia{
+    position: relative;
+    top: 250px;
+    left:150px
+}
